@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660740274937",
+    "firebase_url": "https://tech-workshops.firebaseio.com",
+    "project_id": "tech-workshops",
+    "storage_bucket": "tech-workshops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660740274937:android:9ac185b2be196d8874c028",
+        "android_client_info": {
+          "package_name": "com.example.techworkshops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660740274937-ka1bjsjntoie49p23ubdn6rldd2adjl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPwx2-7UYJYZMCRfv8fvfSuR9gyEINfX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660740274937-ka1bjsjntoie49p23ubdn6rldd2adjl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
